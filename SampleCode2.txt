@@ -1,0 +1,2 @@
+name = input('This Git Sample Checkin?\n')
+print ('Hi, %s.' % name)
